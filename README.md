@@ -2,7 +2,7 @@
 ### Files
 * run_analysis.R
 * README.md
-* cookbook.md
+* codebook.md
 
 ### Original dataset:
 * features.txt: List of measurements
