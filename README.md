@@ -4,16 +4,6 @@
 * README.md
 * codebook.md
 
-### Original dataset:
-* features.txt: List of measurements
-* activity_labels.txt: List of performed activities 
-* train/X_train.txt: Training set
-* train/y_train.txt: Training labels
-* train/subject_train.txt: Subject IDs
-* test/X_test.txt: Test set
-* test/y_test.txt: Test labels
-* test/subject_test.txt': Subject IDs
-
 
 ### Script steps:
 
