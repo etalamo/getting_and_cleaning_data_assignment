@@ -10,12 +10,11 @@
 * test/subject_test.txt': Subject IDs
 
 ### Process:
-1 Merged the X_train with X_test datasets, y_train with y_test datasets and subject_train with subject_test datasets.
-2 Assigned column names from features.txt and filter them, leaving only the ones that are related with MEAN and STANDARD DEVIATION
-3 Replaced the activities IDs with the activities labels for easier data reading
-4 Cleaned hyphens, commas and parentheses from column names and placed then lower cased to avoid typing mistakes while working with the data
-5 Calculated the mean of each variable grouping by subject and activity
-
+1. Merged the X_train with X_test datasets, y_train with y_test datasets and subject_train with subject_test datasets.
+2. Assigned column names from features.txt and filter them, leaving only the ones that are related with MEAN and STANDARD DEVIATION
+3. Replaced the activities IDs with the activities labels for easier data reading
+4. Cleaned hyphens, commas and parentheses from column names and placed then lower cased to avoid typing mistakes while working with the data
+5. Calculated the mean of each variable grouping by subject and activity
 
 ### Variables:
 The following variables are included in the tidy.txt file:
