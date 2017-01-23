@@ -15,7 +15,7 @@
 3. Merged the "subject_train" with "subject_test" datasets.
 4. In the "X" merged dataset (merge of "X_train" and "X_test"), assigned column names from "features.txt" and filtered them, leaving only the ones that are related with MEAN and STANDARD DEVIATION
 5. Replaced the activities IDs with the activities labels for easier data reading.
-6. Cleaned hyphens, commas and parentheses from column names and placed then lower cased to avoid typing mistakes while working with the data.
+6. Cleaned hyphens, commas and parentheses from column names and lower-cased them to avoid typing mistakes while working with the data.
 7. Calculated the mean of each variable grouping by "subject" and "activity".
 
 ### Variables:
